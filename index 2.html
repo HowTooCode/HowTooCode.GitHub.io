@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <body>
+      <title>HowToCodde</title>
+  </body>  
+    
+    <head>
+      <font face="arial"><center><h1>HowToCodde</h1>
+      <p>HowToCodde will teach you how to code in HTML</p>
+    </head>
+</html>
